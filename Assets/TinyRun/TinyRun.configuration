@@ -1,0 +1,59 @@
+{
+    "FileType": "Scene",
+    "Guid": "46b433b264c69cbd39f04ad2e5d12be8",
+    "SerializedVersion": 1,
+    "AssetReferences": [],
+    "Entities": [{
+        "Components": [{
+            "$type": "Unity.Entities.EntityGuid, Unity.Entities",
+            "a": 2858314640925935042,
+            "b": 13294485595582896960
+        }, {
+            "$type": "Unity.Tiny.Core2D.DisplayInfo, Unity.Tiny.Core2D",
+            "width": 1280,
+            "height": 720,
+            "autoSizeToFrame": true,
+            "orientation": 0,
+            "renderMode": 0
+        }, {
+            "$type": "Unity.Tiny.Scenes.Scenes, Unity.Tiny.Scenes",
+            "Elements": [{
+                "SceneReference": {
+                    "SceneGuid": "26132b81d1d5455bb22d0bf794e6875b"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "bbb3e79d1f2e414882379686f468af4c"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "979949a3437b4bd290d370782b24562a"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "7d272124e0994ad18836cfa1a80c14d2"
+                }
+            }, {
+                "SceneReference": {
+                    "SceneGuid": "086e6921585545369a7e1629dfef5ec4"
+                }
+            }]
+        }, {
+            "$type": "Unity.Tiny.Scenes.StartupScenes, Unity.Tiny.Scenes",
+            "Elements": [{
+                "SceneReference": {
+                    "SceneGuid": "26132b81d1d5455bb22d0bf794e6875b"
+                }
+            }]
+        }, {
+            "$type": "Unity.Authoring.Core.ComponentOrder, Unity.Authoring.Core",
+            "Elements": [{
+                "StableTypeHash": 7960064150805274675
+            }, {
+                "StableTypeHash": 12662904853204722592
+            }]
+        }, {
+            "$type": "Unity.Authoring.Core.ConfigurationTag, Unity.Authoring.Core"
+        }]
+    }]
+}
